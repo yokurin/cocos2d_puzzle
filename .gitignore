@@ -1,0 +1,6 @@
+
+/proj.android
+/publish
+cocos2d/build/build
+proj.ios_mac/build
+proj.ios_mac/NekoPuzzle.xcodeproj/project.xcworkspace
